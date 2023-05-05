@@ -1,0 +1,2 @@
+# I'm using vim for this one as it's very familiar to me
+vim /usr/src/app/index.js
