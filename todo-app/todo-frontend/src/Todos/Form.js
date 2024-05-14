@@ -9,6 +9,7 @@ const TodoForm = ({ createTodo }) => {
 
   const handleSubmit = (e) => {
     e.preventDefault()
+    console.log('this was the fix')
     createTodo({ text })
   }
 
